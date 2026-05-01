@@ -13,6 +13,8 @@ Endpoints:
   GET /api/summary            → full payload in one call (used by dashboard)
 """
 
+from itertools import product
+
 from fastapi import APIRouter, HTTPException, Query
 from pathlib import Path
 import sys
@@ -138,7 +140,15 @@ def get_products(
         brand_name = brand_data["brand"]
         for product in brand_data.get("products", []):
             # Enrich product with brand name for display
-            all_products.append({**product, "brand": brand_name})
+            reviews = product.get("reviews") or []
+
+            enriched_product = {
+                **product,
+                "brand": brand_name,
+                "review_count": len(reviews)
+            }
+
+            all_products.append(enriched_product)
 
     # Apply filters
     if brand:

@@ -53,7 +53,7 @@ def compute_brand_metrics(brand_data: dict) -> dict:
     list_prices = [p["list_price"] for p in products if p.get("list_price")]
     discounts = [p["discount_pct"] for p in products if p.get("discount_pct") is not None]
     ratings = [p["rating"] for p in products if p.get("rating")]
-    review_counts = [p["review_count"] for p in products if p.get("review_count")]
+    review_counts = [len(p.get("reviews", [])) for p in products]
 
     avg_price = round(mean(sale_prices), 0) if sale_prices else 0.0
     avg_list_price = round(mean(list_prices), 0) if list_prices else 0.0
