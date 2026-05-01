@@ -27,7 +27,7 @@ The React dashboard surfaces:
 
 ## Brands Covered
 
-Safari · Skybags · American Tourister · VIP
+Safari · Skybags · American Tourister · VIP · Aristocrat
 
 ---
 
@@ -71,6 +71,23 @@ cd ..
 
 ---
 
+## Quick Start (Recommended)
+
+⚡ You can directly run the application without executing the pipeline.
+The repository already includes pre-scraped real data, so the dashboard will automatically load it instead of mock data.
+
+```bash
+# Terminal 1: backend
+cd backend
+source venv/bin/activate        # Windows: venv\Scripts\activate
+python -m uvicorn main:app --reload
+
+# Terminal 2: frontend
+cd frontend && npm install && npm run dev
+# → http://localhost:5173
+```
+---
+
 ## Running the Pipeline
 
 ### Option A — Use mock data (frontend only, no scraping)
@@ -79,7 +96,7 @@ The dashboard works immediately with mock data:
 
 ```bash
 # Start backend (reads from data/mock/ automatically)
-cd backend && python -m uvicorn main:app --reload &
+cd backend && python -m uvicorn main:app --reload 
 
 # Start frontend
 cd frontend && npm run dev
