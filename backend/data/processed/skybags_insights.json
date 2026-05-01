@@ -1,0 +1,874 @@
+{
+  "brand": "Skybags",
+  "processed_at": "2026-04-30T21:02:51.945196Z",
+  "review_count": 80,
+  "insights": {
+    "sentiment_score": 0.56,
+    "sentiment_label": "Average",
+    "positive_themes": [
+      "good quality",
+      "affordable price",
+      "stylish design",
+      "spacious",
+      "lightweight"
+    ],
+    "negative_themes": [
+      "poor durability",
+      "misleading product description",
+      "weak material",
+      "issues with wheels",
+      "customer service problems"
+    ],
+    "recurring_praise": [
+      "good quality",
+      "affordable price",
+      "stylish design"
+    ],
+    "recurring_complaints": [
+      "poor durability",
+      "weak material",
+      "issues with wheels"
+    ],
+    "aspect_sentiment": {
+      "wheels": "mixed",
+      "handle": "mixed",
+      "zipper": "mixed",
+      "material": "negative",
+      "size": "positive",
+      "durability": "negative"
+    },
+    "one_line_summary": "Skybags offers stylish and affordable luggage, but customers frequently report issues with durability and material quality."
+  },
+  "products": [
+    {
+      "asin": "B0FPXLMRCG",
+      "brand": "Skybags",
+      "title": "Atlas Cabin Trolley Bag 55cm | Small | Hard Luggage | Smooth 8-Wheel Suitcase | Secure Combination Lock with Sturdy Zipper | Full Fabric Convipack | 3-Year Warranty (Pearl White)",
+      "product_url": "https://www.amazon.in/dp/B0FPXLMRCG",
+      "sale_price": 1489.0,
+      "list_price": 6790.0,
+      "discount_pct": 78.1,
+      "rating": 4.0,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Perfect of quality. No damage. Easy to handle and perfect option for travel purpose. This is medium size of 66cm. Recommend to buy. I love it. Thankyou Amazon🥰",
+          "date": "Reviewed in India on 20 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "The Safari suitcase has very good quality. The material is strong and durable, keeping luggage safe during travel. The wheels move smoothly and the handle is comfortable to use. It is lightweight and stylish, making it easy to carry. Overall, it is a reliable and value-for-money product",
+          "date": "Reviewed in India on 19 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good quality Good material Sturdy Lovely color Size is good No doubt is a good trolly",
+          "date": "Reviewed in India on 9 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Quality product and pricing fair as similar ones are sold for 30% more in shopping malls",
+          "date": "Reviewed in India on 4 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "I strongly advise against purchasing this suitcase. I was incredibly disappointed from the moment I took it out of the box. First, the product description is misleading. The photos advertise a crisp, white suitcase, but the actual product is a dull off-white color. Worse than the color mismatch is the appalling lack of quality control. The suitcase arrived looking damaged and hastily thrown together. Here is exactly what I found right out of the packaging: • Scuff marks and dirt in multiple spots across the exterior shell. • Terrible finishing around the zipper: The ends are very badly glued, and the rubber sealing is already separating and peeling off. • Visible debris: Bizarrely, there is literally a piece of masking tape and loose threads visibly sticking out from under the rubber trim. The only reason I am not returning this immediately is because I have an urgent trip and simply do not have the time to wait for a replacement. I am completely stuck with a damaged, poorly manufactured product. Do yourself a favor and spend your money elsewhere. The quality is completely unacceptable, and it looks nothing like the item advertised. Avoid this product!",
+          "date": "Reviewed in India on 27 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Material is not sturdy. Average quality. Zips are good.",
+          "date": "Reviewed in India on 20 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Gd quality for 76inch.... spacious bag.. bt 66 inch bags was used,defective and dirty",
+          "date": "Reviewed in India on 4 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good and best bag in this price",
+          "date": "Reviewed in India on 26 April 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:12:45.176579Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the Atlas Cabin Trolley Bag for its good quality, durability, and smooth wheels, making it a favorable choice for travel. However, there are some concerns regarding the sturdiness of the material and occasional defects in the product.",
+        "top_praise": [
+          "Good quality and durable material",
+          "Smooth 8-wheel movement",
+          "Fair pricing compared to similar products"
+        ],
+        "top_complaints": [
+          "Material not sturdy enough",
+          "Occasional defects in the product",
+          "Disappointment with product description accuracy"
+        ]
+      }
+    },
+    {
+      "asin": "B0FC6RZNDC",
+      "brand": "Skybags",
+      "title": "Polycarbonate Spinner Comet Cabin Trolley Bag 56cm|Small|Hard Luggage| Smooth 8-Wheel Suitcase|Combination Lock with Sturdy Zipper|Full Fabric Convipack|3-Year International Warranty(Green)",
+      "product_url": "https://www.amazon.in/dp/B0FC6RZNDC",
+      "sale_price": 1359.0,
+      "list_price": 7990.0,
+      "discount_pct": 83.0,
+      "rating": 4.1,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Great product, This is the second Trolley bag from Aristocrat. I need to say this, what I recieved is a great product, couple times I stand on the box to reach for items on top of cupboard it hand held me without any probs the Zip held strong, I weigh 75kg. Great Trolley for travel easily can carry 30kg wieght, Its value for money and Durable.",
+          "date": "Reviewed in India on 21 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Look wise, it's nice. No damage, hassle free delivery & reasonable also. I was wondering, what if the product would not be the same as shown in the picture, the zip quality, Lock functionality is good. Finally, I'm satisfied with the product for now but the only concern was the quality. It's a little bit low in quality, but anyways it's worth buying. Thank you Amazon. ♥️✨",
+          "date": "Reviewed in India on 17 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "⭐⭐⭐⭐⭐ Stylish, Durable & Worth the Money (Delivery Slightly Delayed) I recently purchased this 3-piece trolley bag set from Aristocrat, and overall I’m really impressed with the quality and design. First of all, the color combination (olive green with yellow accents) looks very premium and unique—definitely stands out from regular luggage. The hard shell body feels sturdy and durable, which gives confidence for long trips and rough handling during travel. The 360° spinner wheels are super smooth, making it very easy to move the bags around even when fully loaded. The trolley handles are strong and adjustable, and the zippers feel high-quality as well. All three sizes (small, medium, large) are very practical—perfect for different travel needs. Also, the bags came well-packed and in proper condition. The only small issue was that delivery was delayed by 1 day, but considering the product quality, it wasn’t a big concern. ✅ Pros: Premium look and finish Strong and durable body Smooth wheels & easy handling Value-for-money combo set Cons:1-day delivery delay Overall, I would highly recommend this set to anyone looking for stylish and reliable luggage 👍",
+          "date": "Reviewed in India on 2 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Value of money Good quality",
+          "date": "Reviewed in India on 22 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Good and Comfortable",
+          "date": "Reviewed in India on 18 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "The product is very weak wobbly and very disappointed with the Amazon service I kept for return on same day one week before and till now no one is turning up for return, it's a big scam. Such a low standard to show to customers. Very very disappointed I will never ever shopp from the site better to go near by local store.",
+          "date": "Reviewed in India on 23 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Great quality, Good for 3 to 4 days travel.",
+          "date": "Reviewed in India on 7 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Good at this price range. Design and look is also decent & professional.",
+          "date": "Reviewed in India on 1 April 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:12:45.348003Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the stylish design, durability, and value for money of the Polycarbonate Spinner Comet Cabin Trolley Bag. However, there are some concerns regarding product quality and customer service experiences.",
+        "top_praise": [
+          "Stylish design",
+          "Durable construction",
+          "Good value for money"
+        ],
+        "top_complaints": [
+          "Weak and wobbly structure",
+          "Poor customer service for returns",
+          "Delivery delays"
+        ]
+      }
+    },
+    {
+      "asin": "B0FMF3SLPK",
+      "brand": "Skybags",
+      "title": "Liberty Cabin (Carry-On) Trolley Bag, 58Cm | Combination Lock | 8 Wheels | 3 Years International Warranty | Spanish Blue, Polypropylene (PP), Hard, Spinner Wheel",
+      "product_url": "https://www.amazon.in/dp/B0FMF3SLPK",
+      "sale_price": 1500.0,
+      "list_price": 6250.0,
+      "discount_pct": 76.0,
+      "rating": 4.2,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very durable, travel friendly, highly recommended",
+          "date": "Reviewed in India on 26 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Very nice luggage set. Strong build quality and stylish look. Wheels move smoothly and handles are sturdy. Size options are perfect for travel. Value for money and highly recommended.",
+          "date": "Reviewed in India on 25 January 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very sturdy product. Sporty and elegant looks. Good quality colour. Lots of storage.",
+          "date": "Reviewed in India on 10 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "This Bag is Very Good at this Price, bag quality and color is good, wheels are strong enough, Size is impressive, The weight remain balanced on pulling it. Overall A good Product at such a price",
+          "date": "Reviewed in India on 29 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "The item is good.Quite spacious.Good for carrying clothings for 2-3 days",
+          "date": "Reviewed in India on 13 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very good affordable travel suitcase. Lightweight with pleasing colour and smooth wheels. Yet to put in use.",
+          "date": "Reviewed in India on 15 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Good but zips and lining belt is not good",
+          "date": "Reviewed in India on 8 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Overall product is really good given the price point, the handle is not so strong. Not broken but making wierd sound.",
+          "date": "Reviewed in India on 1 April 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:12:45.475998Z",
+      "synthesis": {
+        "summary": "Customers generally find the Liberty Cabin Trolley Bag to be durable, stylish, and travel-friendly, with smooth-rolling wheels and ample storage space. However, some users have noted issues with the zippers and handle strength.",
+        "top_praise": [
+          "Durable and sturdy build quality",
+          "Smooth-rolling wheels",
+          "Spacious and lightweight design"
+        ],
+        "top_complaints": [
+          "Zippers and lining belt quality",
+          "Handle strength and noise",
+          "Limited color options"
+        ]
+      }
+    },
+    {
+      "asin": "B0C5DM79R9",
+      "brand": "Skybags",
+      "title": "Medium Polypropylene(Pp) Air Pro Set of 2 Hard Carry-On Luggage(66+76Cm)|&Large Check-in Lightweight Luggage with Strong 4 Spinner Wheels,Secured Zip & Combination Lock|Cross Teal|Unisex",
+      "product_url": "https://www.amazon.in/dp/B0C5DM79R9",
+      "sale_price": 2999.0,
+      "list_price": 22920.0,
+      "discount_pct": 86.9,
+      "rating": 4.2,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Just got my hands on the Aristocrat black trolley bag for ₹2900, and seriously, it's a total steal! This bag is super sturdy and has way more space than I expected. Packing for my upcoming trip felt like a breeze with all the organized compartments. It rolls so smoothly, even on bumpy surfaces, which is a huge plus for any traveler. I'm really impressed with the quality for the price I paid. Definitely worth every rupee! 🛍️✈️",
+          "date": "Reviewed in India on 3 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Suitcase is good quality with the given price range. Posiedon blue color is sober color to have with matte finish and gloss platic details.handle is good..just the retractable pulley handle looks flimsy to take heavy load.",
+          "date": "Reviewed in India on 1 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Must buy at this amazing price.colour,look is too good.but little thin polypropylene material",
+          "date": "Reviewed in India on 23 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "This product is very useful and worth the price. I am very satisfied with the quality. Excellent product, highly recommended. Works perfectly as expected. Good quality and fast delivery.",
+          "date": "Reviewed in India on 14 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Product is extremely good but it's my bad I thought large and medium but it is medium and small",
+          "date": "Reviewed in India on 27 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Quality is a little low as compared to similar aristocrat trolley bags available at the same price",
+          "date": "Reviewed in India on 25 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Its very good, product ,colour good btw - I like the product 👍and the build quality is too good , If anyone wants to buy this product so you can buy this",
+          "date": "Reviewed in India on 25 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Everything was fine until the first use. It's wheel got bron on the very first use and it's so big make it bulky and hard to carry if it is heavy. Else the material is duarable and when wheels were fine it is easy to use. No so good locking but serves the purpose.",
+          "date": "Reviewed in India on 8 March 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:12:45.606902Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the Medium Polypropylene Air Pro luggage for its sturdy build, attractive design, and value for money. However, some have noted concerns about the quality of the material and issues with the wheels after initial use.",
+        "top_praise": [
+          "Sturdy and spacious design",
+          "Attractive color options",
+          "Great value for the price"
+        ],
+        "top_complaints": [
+          "Quality of polypropylene material is thin",
+          "Wheels may malfunction after first use",
+          "Confusion regarding size (medium and small instead of medium and large)"
+        ]
+      }
+    },
+    {
+      "asin": "B0C8ZFXCB6",
+      "brand": "Skybags",
+      "title": "Cabin Trooper 55 Cms Small Abs Hardshellsided 4 Wheels Spinner Printed Luggage/Inline Suitcase/Trolley Back (Pale Green), Large",
+      "product_url": "https://www.amazon.in/dp/B0C8ZFXCB6",
+      "sale_price": 2304.0,
+      "list_price": 6825.0,
+      "discount_pct": 66.2,
+      "rating": 4.2,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "good product",
+          "date": "Reviewed in India on 16 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Very sturdy product but faced problem with lock.",
+          "date": "Reviewed in India on 25 January 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Colour nd look wise awsmm , material is bit flexible so no idea about durability, all over classy",
+          "date": "Reviewed in India on 2 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Perfect Fit & Design: Fits my top load washing machine perfectly — snug and secure without being too tight. The zipper openings make it easy to use the lid without removing the cover. ✅ High-Quality Material: Made of durable, thick fabric that feels premium. It’s waterproof and dustproof — ideal for protecting the machine from rain, dust, sun, and pollution. ✅ Easy to Clean: Just wipe with a damp cloth — no special care needed! ✅ Looks Great: The sleek and modern design blends well with my laundry area. ✅ Value for Money: Excellent quality at this price range — definitely worth it.",
+          "date": "Reviewed in India on 28 January 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "Very thin plastic quality of product. Quality is so poor and price is high",
+          "date": "Reviewed in India on 23 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good Product.",
+          "date": "Reviewed in India on 11 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Good",
+          "date": "Reviewed in India on 31 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Not upto expectations. The handle is not that good.",
+          "date": "Reviewed in India on 23 February 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:12:45.785781Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the stylish design and sturdiness of the Cabin Trooper luggage, with many praising its overall quality. However, there are concerns regarding the durability of the material and issues with the lock and handle functionality.",
+        "top_praise": [
+          "Stylish design and color",
+          "Sturdy construction",
+          "Good fit for various uses"
+        ],
+        "top_complaints": [
+          "Lock issues",
+          "Durability concerns due to flexible material",
+          "Handle quality not meeting expectations"
+        ]
+      }
+    },
+    {
+      "asin": "B07HCRSLFY",
+      "brand": "Skybags",
+      "title": "Rubik Polyester 78 Cms Softsided Large check-in luggage",
+      "product_url": "https://www.amazon.in/dp/B07HCRSLFY",
+      "sale_price": 3099.0,
+      "list_price": 9050.0,
+      "discount_pct": 65.8,
+      "rating": 4.3,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very Good trolley bag... If you are looking for long time use. Go for it... Quality is good. You will be only need to change wheels whenever required after 2 or 3 years as per the usage. I am using it from past 6 years.",
+          "date": "Reviewed in India on 9 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Bags are good but not can be better, wheels of hand bags are not as per guidelines",
+          "date": "Reviewed in India on 24 January 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Amazing item.",
+          "date": "Reviewed in India on 22 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Yea !!! It's very good product. Everyone should buy without any doubt it's is very good product colour and chain are good 👍🏻✨",
+          "date": "Reviewed in India on 30 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Solid built, good quality. Best buy. Looks premium.",
+          "date": "Reviewed in India on 31 October 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Had ordered it for someone else, they loved the suitcase. Very durable and has good capacity. Worth buying it. Sturdy enough",
+          "date": "Reviewed in India on 30 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "In Specs it is informed that country of origin is India but when product received it is written here as Country of Origin is Bangladesh. I am surprised with such fake info shared on Amazon by big brand companies.",
+          "date": "Reviewed in India on 4 October 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good quality cabin suitcase from VIP Group, I used same item last five years, then brought one more",
+          "date": "Reviewed in India on 23 March 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:12:45.978353Z",
+      "synthesis": {
+        "summary": "Customers generally find the Rubik Polyester 78 Cms Softsided Large check-in luggage to be of good quality and durable, making it a worthwhile purchase for long-term use. Many appreciate its solid build and premium appearance, although some have noted minor issues with the wheels.",
+        "top_praise": [
+          "Durable and sturdy construction",
+          "Good quality and premium look",
+          "High capacity and functionality"
+        ],
+        "top_complaints": [
+          "Wheels may not meet expectations",
+          "Confusion regarding country of origin",
+          "Some bags could be improved further"
+        ]
+      }
+    },
+    {
+      "asin": "B0CPSSB4BN",
+      "brand": "Skybags",
+      "title": "Cabin Paratrip Hardshell Luggage (55 Cm) | Polypropylene Luggage 4 Wheel Inline Trolley Bag with 8 Wheels | Bumblebee | Unisex, Small, Yellow",
+      "product_url": "https://www.amazon.in/dp/B0CPSSB4BN",
+      "sale_price": 1699.0,
+      "list_price": 7060.0,
+      "discount_pct": 75.9,
+      "rating": 4.4,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very good quality product as it is very worth but little price should have decrease it .Colour was so pretty matching and well packed.👌✨✨💜💜4/5",
+          "date": "Reviewed in India on 8 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good product",
+          "date": "Reviewed in India on 3 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Very nice and easy to use...",
+          "date": "Reviewed in India on 20 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Cute and handy, suitable for short trips, space shortage is the only drawback. Quality is perfect, good finishing and looks great.",
+          "date": "Reviewed in India on 12 December 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good product",
+          "date": "Reviewed in India on 28 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "It's beautiful... I loved it",
+          "date": "Reviewed in India on 7 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Very colorful and stylish trolley bag,, but the material is not very sturdy. Best for light travel.",
+          "date": "Reviewed in India on 6 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "Bad quality, don't go for it.",
+          "date": "Reviewed in India on 19 April 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:12:46.134855Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the Cabin Paratrip Hardshell Luggage for its attractive design and good quality, particularly for short trips. However, some users have raised concerns about the sturdiness of the material and space limitations.",
+        "top_praise": [
+          "Attractive design and color",
+          "Good quality and finishing",
+          "Easy to use and handy for short trips"
+        ],
+        "top_complaints": [
+          "Material not very sturdy",
+          "Limited space for packing",
+          "One negative review citing bad quality"
+        ]
+      }
+    },
+    {
+      "asin": "B0C8ZNNCQW",
+      "brand": "Skybags",
+      "title": "Medium Stroke Size Abs Hard Luggage (67 Cm)|Printed Luggage Trolley with 8 Spinner Wheels and in-Built Combination Lock|Unisex, Blue and White",
+      "product_url": "https://www.amazon.in/dp/B0C8ZNNCQW",
+      "sale_price": 2300.0,
+      "list_price": 6450.0,
+      "discount_pct": 64.3,
+      "rating": 4.2,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Enough storage space as mentioned in the description, value for money as well as easy to carry and use, the wheel quality is too good lock system is very easy to understand and use and we can easily carry 2 persons luggage in this one bag by using it’s both side so overall product quality as well as space is too good 10/10 from my side.",
+          "date": "Reviewed in India on 8 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Very good quality and good looking trolley,in this price nice product",
+          "date": "Reviewed in India on 21 January 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Just just justtt wowwww looks very very stylish and premium and all the 3 trolly bags are coming with tsa lock with 5 years international warranty very light weight easy to use colour was soo good such a quality bag for this price thank you",
+          "date": "Reviewed in India on 12 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Looking classy, good material and nice colour.... Sky bags r my favorite.",
+          "date": "Reviewed in India on 16 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "Horrible experience with this article. Bag tilt as 2 tyre don't hold the correct weight of the bag. Please help me out as I am not available to return it. How to repair it.",
+          "date": "Reviewed in India on 17 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "The bag looks very classy and premium, no doubt. But the build quality is quite weak — the shell feels thin and not very sturdy. Great for light use, but not for heavy or rough travel. Overall: great look, average durability. Rating: ⭐⭐⭐☆☆ (3/5)",
+          "date": "Reviewed in India on 2 December 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Trolly is so good .Best for few days travelling Can fit many clothes easily ,It’s very useful for 2 people maximum go for it",
+          "date": "Reviewed in India on 24 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Overall good product",
+          "date": "Reviewed in India on 20 March 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:12:46.289522Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the stylish design, good storage capacity, and value for money of the luggage trolley. However, there are concerns about the build quality and durability, with some users experiencing issues with the wheels and overall sturdiness.",
+        "top_praise": [
+          "Stylish and premium appearance",
+          "Good storage space",
+          "Value for money"
+        ],
+        "top_complaints": [
+          "Weak build quality",
+          "Issues with wheel stability",
+          "Thin shell material"
+        ]
+      }
+    },
+    {
+      "asin": "B0CPSW5WJ5",
+      "brand": "Skybags",
+      "title": "Cabin Paratrip Hard Luggage (55 cm) | Polypropylene Luggage Trolley with 8 Spinner Wheels| Purple Oppulence | Unisex",
+      "product_url": "https://www.amazon.in/dp/B0CPSW5WJ5",
+      "sale_price": 1833.0,
+      "list_price": 7060.0,
+      "discount_pct": 74.0,
+      "rating": 4.4,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very good quality product as it is very worth but little price should have decrease it .Colour was so pretty matching and well packed.👌✨✨💜💜4/5",
+          "date": "Reviewed in India on 8 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good product",
+          "date": "Reviewed in India on 3 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Very nice and easy to use...",
+          "date": "Reviewed in India on 20 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Cute and handy, suitable for short trips, space shortage is the only drawback. Quality is perfect, good finishing and looks great.",
+          "date": "Reviewed in India on 12 December 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good product",
+          "date": "Reviewed in India on 28 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "It's beautiful... I loved it",
+          "date": "Reviewed in India on 7 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Very colorful and stylish trolley bag,, but the material is not very sturdy. Best for light travel.",
+          "date": "Reviewed in India on 6 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "Bad quality, don't go for it.",
+          "date": "Reviewed in India on 19 April 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:12:46.428416Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the Cabin Paratrip Hard Luggage for its attractive design and good quality, making it suitable for short trips. However, some users have noted concerns about the sturdiness of the material and space limitations.",
+        "top_praise": [
+          "Attractive design and color",
+          "Good quality and finishing",
+          "Easy to use and handy for short trips"
+        ],
+        "top_complaints": [
+          "Material not very sturdy",
+          "Limited space for packing",
+          "One negative review citing bad quality"
+        ]
+      }
+    },
+    {
+      "asin": "B0D9P1LQ13",
+      "brand": "Skybags",
+      "title": "Cabin Acrylonitrile Butadiene Styrene (Abs) Trooper Hard Luggage (55Cm) | Luggage Trolley with 4 Spinner Wheels and Resettable Combination Lock | Black Medium",
+      "product_url": "https://www.amazon.in/dp/B0D9P1LQ13",
+      "sale_price": 2304.0,
+      "list_price": 6825.0,
+      "discount_pct": 66.2,
+      "rating": 4.2,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "good product",
+          "date": "Reviewed in India on 16 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Very sturdy product but faced problem with lock.",
+          "date": "Reviewed in India on 25 January 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Colour nd look wise awsmm , material is bit flexible so no idea about durability, all over classy",
+          "date": "Reviewed in India on 2 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Perfect Fit & Design: Fits my top load washing machine perfectly — snug and secure without being too tight. The zipper openings make it easy to use the lid without removing the cover. ✅ High-Quality Material: Made of durable, thick fabric that feels premium. It’s waterproof and dustproof — ideal for protecting the machine from rain, dust, sun, and pollution. ✅ Easy to Clean: Just wipe with a damp cloth — no special care needed! ✅ Looks Great: The sleek and modern design blends well with my laundry area. ✅ Value for Money: Excellent quality at this price range — definitely worth it.",
+          "date": "Reviewed in India on 28 January 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "Very thin plastic quality of product. Quality is so poor and price is high",
+          "date": "Reviewed in India on 23 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good Product.",
+          "date": "Reviewed in India on 11 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Good",
+          "date": "Reviewed in India on 31 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Not upto expectations. The handle is not that good.",
+          "date": "Reviewed in India on 23 February 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:12:46.576004Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the stylish design and sturdiness of the Cabin Acrylonitrile Butadiene Styrene (ABS) Trooper Hard Luggage. However, there are concerns regarding the quality of the plastic and issues with the lock and handle.",
+        "top_praise": [
+          "Stylish design and color",
+          "Sturdy construction",
+          "Good fit for various uses"
+        ],
+        "top_complaints": [
+          "Thin plastic quality",
+          "Problems with the lock",
+          "Handle not meeting expectations"
+        ]
+      }
+    }
+  ]
+}

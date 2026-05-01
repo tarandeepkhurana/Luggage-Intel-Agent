@@ -1,0 +1,874 @@
+{
+  "brand": "Safari",
+  "processed_at": "2026-04-30T21:02:15.853077Z",
+  "review_count": 80,
+  "insights": {
+    "sentiment_score": 0.66,
+    "sentiment_label": "Good",
+    "positive_themes": [
+      "value for money",
+      "good quality",
+      "lightweight",
+      "durable",
+      "stylish design"
+    ],
+    "negative_themes": [
+      "poor wheel quality",
+      "zipper issues",
+      "lock problems",
+      "handle stability",
+      "material quality concerns"
+    ],
+    "recurring_praise": [
+      "value for money",
+      "good quality",
+      "lightweight design"
+    ],
+    "recurring_complaints": [
+      "poor wheel quality",
+      "zipper issues",
+      "lock problems"
+    ],
+    "aspect_sentiment": {
+      "wheels": "mixed",
+      "handle": "mixed",
+      "zipper": "mixed",
+      "material": "positive",
+      "size": "positive",
+      "durability": "mixed"
+    },
+    "one_line_summary": "Overall, Safari luggage is perceived as a good value option with decent quality, though there are concerns about specific features like wheels and zippers."
+  },
+  "products": [
+    {
+      "asin": "B0F9FMQZWN",
+      "brand": "Safari",
+      "title": "Astra Neo 8 Wheels 56cm Cabin Size Trolley Bag, Hard Case Polycarbonate, 360 Degree Wheeling Carry-on Luggage for Men & Women, Travel Bag, Suitcase for Travel, Trolley Bag for Travel, Champagne",
+      "product_url": "https://www.amazon.in/dp/B0F9FMQZWN",
+      "sale_price": 2199.0,
+      "list_price": 8999.0,
+      "discount_pct": 75.6,
+      "rating": 4.1,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Best quality of travel bag in Full size.. with 3 years international warranty. Worth every single Penny",
+          "date": "Reviewed in India on 24 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "The product is good, but it somehow differs from the photo... a bit less quality than shown",
+          "date": "Reviewed in India on 11 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very good quality and nice product....",
+          "date": "Reviewed in India on 22 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "All size bags are received in good condition. Quality is Value for money. Light weight but strong bags.",
+          "date": "Reviewed in India on 12 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "The bag chain lock is already lock it's not open as password by 000 some one change the code and I can't open the bag and trolly is also not come up down smoothly is hard to pull and push this is not acceptable from amazon, its 3rd time I return the product amazon should check with their partner and take some action about not checking product quality",
+          "date": "Reviewed in India on 18 November 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Material quality seems to be below average mainly the zipper is of cheap quality.apart from that Looks good and lightweight design",
+          "date": "Reviewed in India on 8 January 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very nice 👌",
+          "date": "Reviewed in India on 14 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Quality is decent ..not that Good . Pulling handel isn't steady .. colour is good material is fine .. wheels are steady ..",
+          "date": "Reviewed in India on 12 December 2025",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:10:17.659781Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the Astra Neo 8 Wheels trolley bag for its good quality, lightweight design, and value for money. However, there are mixed feelings about the material quality, particularly regarding the zipper and the locking mechanism.",
+        "top_praise": [
+          "Good quality and lightweight design",
+          "Value for money",
+          "Attractive appearance"
+        ],
+        "top_complaints": [
+          "Zipper quality is below average",
+          "Issues with the locking mechanism",
+          "Inconsistency between product appearance and actual quality"
+        ]
+      }
+    },
+    {
+      "asin": "B0FLYGLKYQ",
+      "brand": "Safari",
+      "title": "Genius Alley Set of 3 (Cabin + Medium + Large) Trolley Bags Hard Case Polypropylene, 4 Wheels, 360 Degree Wheeling Luggage, Suitcase for Travel, Trolley Bags for Travel, Flintstone",
+      "product_url": "https://www.amazon.in/dp/B0FLYGLKYQ",
+      "sale_price": 4399.0,
+      "list_price": 27997.0,
+      "discount_pct": 84.3,
+      "rating": 4.0,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "If you’re looking for an affordable, durable, and practical luggage set, this is a solid choice. It may not be luxury-level, but for regular travel, it does the job really well and feels reliable.",
+          "date": "Reviewed in India on 20 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Product quality, design, colour , Zipper quality and appearance all are good. Durable and Valuable for money.",
+          "date": "Reviewed in India on 28 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good.. value for money",
+          "date": "Reviewed in India on 28 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Is lightweight,good price but could have been a little better quality ,good size for long journey travelling",
+          "date": "Reviewed in India on 19 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Only brand name , low quality product",
+          "date": "Reviewed in India on 23 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Worth for money. Looks good.",
+          "date": "Reviewed in India on 13 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Material is good . Quality is impressive. Easy to carry",
+          "date": "Reviewed in India on 17 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Great product and timely delivery, good value for money.👍",
+          "date": "Reviewed in India on 12 April 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:10:17.737845Z",
+      "synthesis": {
+        "summary": "Customers generally find the Genius Alley Trolley Bags to be a good value for money, appreciating their durability and practicality for regular travel. While many praise the quality and design, some express concerns about the overall quality and brand reputation.",
+        "top_praise": [
+          "Affordable and durable",
+          "Good design and appearance",
+          "Lightweight and easy to carry"
+        ],
+        "top_complaints": [
+          "Low quality perceived by some",
+          "Could be better in terms of overall quality",
+          "Brand name concerns"
+        ]
+      }
+    },
+    {
+      "asin": "B097BG27MD",
+      "brand": "Safari",
+      "title": "Pentagon Pro 8 Wheels Spinner 55Cm Cabin Trolley Bag Hard Case Polypropylene, 360° Wheeling Carry On Luggage for Men & Women, Travel Suitcase, Cyan",
+      "product_url": "https://www.amazon.in/dp/B097BG27MD",
+      "sale_price": 1899.0,
+      "list_price": 8999.0,
+      "discount_pct": 78.9,
+      "rating": 4.2,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "It's really very good and worth the money, also the key to zip is 000 , and that is given inside the bag, how can one see it without opening it , so please give it outside the bag.",
+          "date": "Reviewed in India on 7 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "The bag quality is really good and feels sturdy. The outer shell is strong, the design looks premium, and the wheels move smoothly overall. Size and storage are perfect for travel, and the finish is neat and classy. The only reason for giving 4 stars instead of 5 is that there are minor scratches on the wheels, likely due to handling or drop point during delivery. It doesn’t affect functionality at all, but worth mentioning. Overall, a great product at this price, durable and worth buying. Highly recommended for frequent travellers.",
+          "date": "Reviewed in India on 21 January 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Wow product .. safari have a quality.. .. value for money. Thank u amazon ..",
+          "date": "Reviewed in India on 26 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Value for money.",
+          "date": "Reviewed in India on 13 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Quality of product is good however i am not satisfied with the wheel quality and handle is also not strong enough",
+          "date": "Reviewed in India on 21 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "I have 4 year old 2 AT bags, the chain of which is still very smooth and perfectly working. On contrary safari chain has poor quality. Plastic body easily got scratched. Size is good so fits more stuffs that AT in same size category.",
+          "date": "Reviewed in India on 18 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "I’ve got the trolley for 1700, and it’s a great deal to have the trolley in the vanity. Great stutdy suitcase.",
+          "date": "Reviewed in India on 14 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "So far it was good. But on my recent trip to tirupati the lock didn't open i had to try some youtube hack and open it.",
+          "date": "Reviewed in India on 8 March 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:10:17.830628Z",
+      "synthesis": {
+        "summary": "Customers generally find the Pentagon Pro 8 Wheels Spinner Trolley Bag to be a good value for money, appreciating its sturdy build and premium design. However, there are mixed feelings about the quality of the wheels and the zipper lock mechanism.",
+        "top_praise": [
+          "Sturdy and premium quality",
+          "Smooth wheel movement",
+          "Good value for money"
+        ],
+        "top_complaints": [
+          "Inconsistent wheel and handle quality",
+          "Issues with the zipper lock",
+          "Plastic body perceived as less durable"
+        ]
+      }
+    },
+    {
+      "asin": "B0FC6QHJD7",
+      "brand": "Safari",
+      "title": "Polycarbonate Spinner Comet Cabin Trolley Bag 56cm|Small|Hard Luggage| Smooth 8-Wheel Suitcase|Combination Lock with Sturdy Zipper|Full Fabric Convipack|3-Year International Warranty (Grey)",
+      "product_url": "https://www.amazon.in/dp/B0FC6QHJD7",
+      "sale_price": 1399.0,
+      "list_price": 7990.0,
+      "discount_pct": 82.5,
+      "rating": 4.1,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Great product, This is the second Trolley bag from Aristocrat. I need to say this, what I recieved is a great product, couple times I stand on the box to reach for items on top of cupboard it hand held me without any probs the Zip held strong, I weigh 75kg. Great Trolley for travel easily can carry 30kg wieght, Its value for money and Durable.",
+          "date": "Reviewed in India on 21 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Look wise, it's nice. No damage, hassle free delivery & reasonable also. I was wondering, what if the product would not be the same as shown in the picture, the zip quality, Lock functionality is good. Finally, I'm satisfied with the product for now but the only concern was the quality. It's a little bit low in quality, but anyways it's worth buying. Thank you Amazon. ♥️✨",
+          "date": "Reviewed in India on 17 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "⭐⭐⭐⭐⭐ Stylish, Durable & Worth the Money (Delivery Slightly Delayed) I recently purchased this 3-piece trolley bag set from Aristocrat, and overall I’m really impressed with the quality and design. First of all, the color combination (olive green with yellow accents) looks very premium and unique—definitely stands out from regular luggage. The hard shell body feels sturdy and durable, which gives confidence for long trips and rough handling during travel. The 360° spinner wheels are super smooth, making it very easy to move the bags around even when fully loaded. The trolley handles are strong and adjustable, and the zippers feel high-quality as well. All three sizes (small, medium, large) are very practical—perfect for different travel needs. Also, the bags came well-packed and in proper condition. The only small issue was that delivery was delayed by 1 day, but considering the product quality, it wasn’t a big concern. ✅ Pros: Premium look and finish Strong and durable body Smooth wheels & easy handling Value-for-money combo set Cons:1-day delivery delay Overall, I would highly recommend this set to anyone looking for stylish and reliable luggage 👍",
+          "date": "Reviewed in India on 2 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Value of money Good quality",
+          "date": "Reviewed in India on 22 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Good and Comfortable",
+          "date": "Reviewed in India on 18 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "The product is very weak wobbly and very disappointed with the Amazon service I kept for return on same day one week before and till now no one is turning up for return, it's a big scam. Such a low standard to show to customers. Very very disappointed I will never ever shopp from the site better to go near by local store.",
+          "date": "Reviewed in India on 23 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Great quality, Good for 3 to 4 days travel.",
+          "date": "Reviewed in India on 7 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Good at this price range. Design and look is also decent & professional.",
+          "date": "Reviewed in India on 1 April 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:10:17.955460Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the Polycarbonate Spinner Comet Cabin Trolley Bag for its stylish design, durability, and value for money. While many reviews highlight its quality and functionality for short trips, there are some concerns regarding product strength and customer service experiences.",
+        "top_praise": [
+          "Stylish design",
+          "Durable and good quality",
+          "Value for money"
+        ],
+        "top_complaints": [
+          "Weak and wobbly construction",
+          "Poor customer service for returns",
+          "Delivery delays"
+        ]
+      }
+    },
+    {
+      "asin": "B0F67J5S83",
+      "brand": "Safari",
+      "title": "Cabin Genius Alley 55cm Trolley Bag Hard Case Polypropylene, 4 Spinner Wheels, 360 Degree Wheeling Carry on Luggage, Travel Bag, Suitcase for Travel, Trolley Bags for Travel, Navy",
+      "product_url": "https://www.amazon.in/dp/B0F67J5S83",
+      "sale_price": 1499.0,
+      "list_price": 6999.0,
+      "discount_pct": 78.6,
+      "rating": 4.0,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "If you’re looking for an affordable, durable, and practical luggage set, this is a solid choice. It may not be luxury-level, but for regular travel, it does the job really well and feels reliable.",
+          "date": "Reviewed in India on 20 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Product quality, design, colour , Zipper quality and appearance all are good. Durable and Valuable for money.",
+          "date": "Reviewed in India on 28 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good.. value for money",
+          "date": "Reviewed in India on 28 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Is lightweight,good price but could have been a little better quality ,good size for long journey travelling",
+          "date": "Reviewed in India on 19 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Only brand name , low quality product",
+          "date": "Reviewed in India on 23 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Worth for money. Looks good.",
+          "date": "Reviewed in India on 13 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Material is good . Quality is impressive. Easy to carry",
+          "date": "Reviewed in India on 17 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Great product and timely delivery, good value for money.👍",
+          "date": "Reviewed in India on 12 April 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:10:18.095803Z",
+      "synthesis": {
+        "summary": "Customers generally find the Cabin Genius Alley 55cm Trolley Bag to be a durable and affordable option for regular travel. While many appreciate its lightweight design and good value for money, some express concerns about the overall quality.",
+        "top_praise": [
+          "Affordable and good value for money",
+          "Lightweight and easy to carry",
+          "Durable material and design"
+        ],
+        "top_complaints": [
+          "Quality could be improved",
+          "Some perceive it as low quality despite the brand name",
+          "Not luxury-level compared to higher-end options"
+        ]
+      }
+    },
+    {
+      "asin": "B0FLYFYT23",
+      "brand": "Safari",
+      "title": "Genius Alley Set of 3 (Cabin + Medium + Large) Trolley Bags Hard Case Polypropylene, 4 Wheels, 360 Degree Wheeling Luggage, Suitcase for Travel, Trolley Bags for Travel, Deep Forrest",
+      "product_url": "https://www.amazon.in/dp/B0FLYFYT23",
+      "sale_price": 4399.0,
+      "list_price": 27997.0,
+      "discount_pct": 84.3,
+      "rating": 4.0,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "If you’re looking for an affordable, durable, and practical luggage set, this is a solid choice. It may not be luxury-level, but for regular travel, it does the job really well and feels reliable.",
+          "date": "Reviewed in India on 20 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Product quality, design, colour , Zipper quality and appearance all are good. Durable and Valuable for money.",
+          "date": "Reviewed in India on 28 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good.. value for money",
+          "date": "Reviewed in India on 28 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Is lightweight,good price but could have been a little better quality ,good size for long journey travelling",
+          "date": "Reviewed in India on 19 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Only brand name , low quality product",
+          "date": "Reviewed in India on 23 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Worth for money. Looks good.",
+          "date": "Reviewed in India on 13 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Material is good . Quality is impressive. Easy to carry",
+          "date": "Reviewed in India on 17 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Great product and timely delivery, good value for money.👍",
+          "date": "Reviewed in India on 12 April 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:10:18.338561Z",
+      "synthesis": {
+        "summary": "Customers generally find the Genius Alley Trolley Bags to be a good value for money, appreciating their durability and practicality for regular travel. While many praise the design and material quality, some express concerns about the overall quality compared to higher-end brands.",
+        "top_praise": [
+          "Affordable and durable",
+          "Good design and appearance",
+          "Lightweight and easy to carry"
+        ],
+        "top_complaints": [
+          "Quality could be better",
+          "Some perceive it as low quality",
+          "Limited luxury features"
+        ]
+      }
+    },
+    {
+      "asin": "B097GSSCLC",
+      "brand": "Safari",
+      "title": "Pentagon Pro 8 Wheels 55cm Cabin Size Trolley Bag, Hard Case Polypropylene, 360º Wheeling Small Carry-on Luggage, Suitcase for Travel, Trolley Bags for Travel, Luxury Beige",
+      "product_url": "https://www.amazon.in/dp/B097GSSCLC",
+      "sale_price": 1899.0,
+      "list_price": 8999.0,
+      "discount_pct": 78.9,
+      "rating": 4.2,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "It's really very good and worth the money, also the key to zip is 000 , and that is given inside the bag, how can one see it without opening it , so please give it outside the bag.",
+          "date": "Reviewed in India on 7 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "The bag quality is really good and feels sturdy. The outer shell is strong, the design looks premium, and the wheels move smoothly overall. Size and storage are perfect for travel, and the finish is neat and classy. The only reason for giving 4 stars instead of 5 is that there are minor scratches on the wheels, likely due to handling or drop point during delivery. It doesn’t affect functionality at all, but worth mentioning. Overall, a great product at this price, durable and worth buying. Highly recommended for frequent travellers.",
+          "date": "Reviewed in India on 21 January 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Wow product .. safari have a quality.. .. value for money. Thank u amazon ..",
+          "date": "Reviewed in India on 26 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Value for money.",
+          "date": "Reviewed in India on 13 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Quality of product is good however i am not satisfied with the wheel quality and handle is also not strong enough",
+          "date": "Reviewed in India on 21 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "I have 4 year old 2 AT bags, the chain of which is still very smooth and perfectly working. On contrary safari chain has poor quality. Plastic body easily got scratched. Size is good so fits more stuffs that AT in same size category.",
+          "date": "Reviewed in India on 18 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "I’ve got the trolley for 1700, and it’s a great deal to have the trolley in the vanity. Great stutdy suitcase.",
+          "date": "Reviewed in India on 14 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "So far it was good. But on my recent trip to tirupati the lock didn't open i had to try some youtube hack and open it.",
+          "date": "Reviewed in India on 8 March 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:10:18.465757Z",
+      "synthesis": {
+        "summary": "Customers generally find the Pentagon Pro 8 Wheels Trolley Bag to be a good value for money, appreciating its sturdy build and premium design. However, some users have expressed concerns about the quality of the wheels and the lock mechanism.",
+        "top_praise": [
+          "Sturdy and premium quality",
+          "Smooth wheel movement",
+          "Good value for money"
+        ],
+        "top_complaints": [
+          "Poor quality of wheels",
+          "Weak handle",
+          "Lock mechanism issues"
+        ]
+      }
+    },
+    {
+      "asin": "B097BGX7TV",
+      "brand": "Safari",
+      "title": "Pentagon Pro 8 Wheels Spinner Checkin Trolley Bag, Hard Case Polypropylene 360º Wheeling Luggage for Men & Women, Suitcase Bag for Travel, Cyan, 65 cm, Medium Size",
+      "product_url": "https://www.amazon.in/dp/B097BGX7TV",
+      "sale_price": 2499.0,
+      "list_price": 10999.0,
+      "discount_pct": 77.3,
+      "rating": 4.2,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "It's really very good and worth the money, also the key to zip is 000 , and that is given inside the bag, how can one see it without opening it , so please give it outside the bag.",
+          "date": "Reviewed in India on 7 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "The bag quality is really good and feels sturdy. The outer shell is strong, the design looks premium, and the wheels move smoothly overall. Size and storage are perfect for travel, and the finish is neat and classy. The only reason for giving 4 stars instead of 5 is that there are minor scratches on the wheels, likely due to handling or drop point during delivery. It doesn’t affect functionality at all, but worth mentioning. Overall, a great product at this price, durable and worth buying. Highly recommended for frequent travellers.",
+          "date": "Reviewed in India on 21 January 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Wow product .. safari have a quality.. .. value for money. Thank u amazon ..",
+          "date": "Reviewed in India on 26 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Value for money.",
+          "date": "Reviewed in India on 13 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Quality of product is good however i am not satisfied with the wheel quality and handle is also not strong enough",
+          "date": "Reviewed in India on 21 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "I have 4 year old 2 AT bags, the chain of which is still very smooth and perfectly working. On contrary safari chain has poor quality. Plastic body easily got scratched. Size is good so fits more stuffs that AT in same size category.",
+          "date": "Reviewed in India on 18 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "I’ve got the trolley for 1700, and it’s a great deal to have the trolley in the vanity. Great stutdy suitcase.",
+          "date": "Reviewed in India on 14 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "So far it was good. But on my recent trip to tirupati the lock didn't open i had to try some youtube hack and open it.",
+          "date": "Reviewed in India on 8 March 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:10:18.553506Z",
+      "synthesis": {
+        "summary": "Customers generally find the Pentagon Pro 8 Wheels Spinner Checkin Trolley Bag to be a good value for money, with a sturdy design and smooth wheels. However, there are mixed feelings about the quality of the wheels and the lock mechanism.",
+        "top_praise": [
+          "Sturdy and premium quality design",
+          "Good value for money",
+          "Smooth wheel movement"
+        ],
+        "top_complaints": [
+          "Inconsistent lock quality",
+          "Weak handle strength",
+          "Concerns about wheel durability"
+        ]
+      }
+    },
+    {
+      "asin": "B0F67L3Y72",
+      "brand": "Safari",
+      "title": "Medium Genius Alley 66cm Size Check-in Trolley Bag Hard Case Polypropylene, 4 Spinner Wheels, 360 Degree Wheeling Luggage, Travel Bag, Suitcase for Travel, Trolley Bags for Travel, Black",
+      "product_url": "https://www.amazon.in/dp/B0F67L3Y72",
+      "sale_price": 1999.0,
+      "list_price": 8999.0,
+      "discount_pct": 77.8,
+      "rating": 4.0,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "If you’re looking for an affordable, durable, and practical luggage set, this is a solid choice. It may not be luxury-level, but for regular travel, it does the job really well and feels reliable.",
+          "date": "Reviewed in India on 20 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Product quality, design, colour , Zipper quality and appearance all are good. Durable and Valuable for money.",
+          "date": "Reviewed in India on 28 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good.. value for money",
+          "date": "Reviewed in India on 28 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Is lightweight,good price but could have been a little better quality ,good size for long journey travelling",
+          "date": "Reviewed in India on 19 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Only brand name , low quality product",
+          "date": "Reviewed in India on 23 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Worth for money. Looks good.",
+          "date": "Reviewed in India on 13 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Material is good . Quality is impressive. Easy to carry",
+          "date": "Reviewed in India on 17 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Great product and timely delivery, good value for money.👍",
+          "date": "Reviewed in India on 12 April 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:10:18.695177Z",
+      "synthesis": {
+        "summary": "Customers generally find the Medium Genius Alley Trolley Bag to be a durable and affordable option for regular travel. While many appreciate its good design and value for money, some express concerns about the overall quality.",
+        "top_praise": [
+          "Affordable and good value for money",
+          "Durable and lightweight",
+          "Attractive design and appearance"
+        ],
+        "top_complaints": [
+          "Quality could be improved",
+          "Some perceive it as low quality despite the brand name",
+          "Zipper quality may not meet expectations"
+        ]
+      }
+    },
+    {
+      "asin": "B0FGJNGFTK",
+      "brand": "Safari",
+      "title": "Luma Neo 8 Wheels 66cm Medium Size Trolley Bag, Hard Case Printed Polycarbonate, 360 Degree Wheeling Checkin Luggage for Men & Women, Suitcase for Travel, Trolley Bags for Travel, Multicolour",
+      "product_url": "https://www.amazon.in/dp/B0FGJNGFTK",
+      "sale_price": 2499.0,
+      "list_price": 11999.0,
+      "discount_pct": 79.2,
+      "rating": 4.0,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Great Purchase Design is outstanding and build quality is very good Wheels are smooth Overall product is outstanding",
+          "date": "Reviewed in India on 5 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "quality should be more improved. overall good product,",
+          "date": "Reviewed in India on 10 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "It is good and also budget friendly with good quality",
+          "date": "Reviewed in India on 25 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "No numbers provide of the number lock in the package. I unlock after long time. Default settings 000 was not working. Not provide unlock instruction. This is disgusting 😡",
+          "date": "Reviewed in India on 21 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very nice 🙂",
+          "date": "Reviewed in India on 22 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "⭐️⭐️⭐️⭐️⭐️ Excellent Trolley Bag! I ordered this Safari trolley bag online, and it turned out even better than I expected. The quality is great — strong zippers, smooth wheels, and a sturdy handle. The design looks stylish, and it’s lightweight, which makes traveling easy. The inside space is also ample for clothes and essentials. Overall, it’s a value-for-money product, and Safari’s quality truly feels reliable.",
+          "date": "Reviewed in India on 2 November 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Quality and Wheels not upto the standard",
+          "date": "Reviewed in India on 11 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "product quality is good, using this type of polycarbonate bags for this first time first impression was it is light in weight & but build quality seems decent not too sturdy build as this is my initial review will update for long term also, color combination & asthetic wise looks good, zipper quality is good, i have ordered this on short notice as i have travel planned in 2 days came in just 1 day delivery so kudos to that",
+          "date": "Reviewed in India on 1 December 2025",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:10:18.804097Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the design, build quality, and budget-friendly nature of the Luma Neo 8 Wheels trolley bag. However, there are concerns regarding the quality of the wheels and issues with the number lock instructions.",
+        "top_praise": [
+          "Outstanding design",
+          "Smooth wheels",
+          "Good quality for the price"
+        ],
+        "top_complaints": [
+          "Lack of instructions for the number lock",
+          "Quality of wheels not up to standard",
+          "Need for improved overall quality"
+        ]
+      }
+    }
+  ]
+}

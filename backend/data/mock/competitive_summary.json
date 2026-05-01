@@ -1,0 +1,526 @@
+{
+  "generated_at": "2025-01-15T10:00:00Z",
+  "overview": {
+    "brands_tracked": 4,
+    "total_products": 40,
+    "total_reviews": 1240,
+    "avg_sentiment": 0.68,
+    "avg_price": 2850.0,
+    "avg_rating": 4.1,
+    "avg_discount_pct": 38.5
+  },
+  "brands": [
+    {
+      "brand": "Safari",
+      "product_count": 10,
+      "review_count": 340,
+      "avg_price": 3200.0,
+      "avg_list_price": 5200.0,
+      "avg_discount_pct": 38.5,
+      "avg_rating": 4.3,
+      "total_reviews": 340,
+      "sentiment_score": 0.78,
+      "sentiment_label": "Good",
+      "price_band": "Mid-range",
+      "positive_themes": [
+        "Sturdy build",
+        "Smooth wheels",
+        "Spacious compartments",
+        "Good zippers",
+        "Lightweight"
+      ],
+      "negative_themes": [
+        "Price premium",
+        "Limited colors",
+        "Handle wobble",
+        "Scratch prone exterior",
+        "Customer service"
+      ],
+      "recurring_praise": [
+        "Wheels glide smoothly",
+        "Very spacious",
+        "Good quality locks"
+      ],
+      "recurring_complaints": [
+        "Handle feels loose after 6 months",
+        "Gets scratched easily",
+        "Price increased recently"
+      ],
+      "aspect_sentiment": {
+        "wheels": "positive",
+        "handle": "mixed",
+        "zipper": "positive",
+        "material": "mixed",
+        "size": "positive",
+        "durability": "positive"
+      },
+      "one_line_summary": "Safari is perceived as a reliable mid-range brand with strong build quality but minor handle durability concerns.",
+      "value_score": 5.8,
+      "rank_by_rating": 1,
+      "rank_by_sentiment": 1,
+      "rank_by_value": 2,
+      "rank_by_discount": 3,
+      "products": [
+        {
+          "asin": "B08XYZ1111",
+          "brand": "Safari",
+          "title": "Safari Polycarbonate 55 cm Cabin Trolley Bag - Teal",
+          "product_url": "https://www.amazon.in/dp/B08XYZ1111",
+          "sale_price": 2799.0,
+          "list_price": 4500.0,
+          "discount_pct": 37.8,
+          "rating": 4.4,
+          "review_count": 892,
+          "synthesis": {
+            "summary": "Customers love the spinner wheels and spacious interior. A few mention the exterior scratches after airline handling, but overall satisfaction is high especially for domestic travel.",
+            "top_praise": [
+              "Excellent spinner wheels",
+              "Very spacious for cabin size",
+              "Locks are sturdy"
+            ],
+            "top_complaints": [
+              "Scratches on body after first use",
+              "Color slightly different from photo",
+              "Hard to stand upright when empty"
+            ]
+          }
+        },
+        {
+          "asin": "B08XYZ1112",
+          "brand": "Safari",
+          "title": "Safari Polycarbonate 65 cm Check-in Trolley - Black",
+          "product_url": "https://www.amazon.in/dp/B08XYZ1112",
+          "sale_price": 3499.0,
+          "list_price": 5800.0,
+          "discount_pct": 39.7,
+          "rating": 4.3,
+          "review_count": 456,
+          "synthesis": {
+            "summary": "Great for international travel with durable shell and TSA-approved locks. Handle extension mechanism praised but some report slight wobble over time.",
+            "top_praise": [
+              "TSA lock is very useful",
+              "Durable shell survived rough handling",
+              "Smooth telescopic handle"
+            ],
+            "top_complaints": [
+              "Handle wobbles slightly",
+              "Zipper pull feels cheap",
+              "Heavier than expected"
+            ]
+          }
+        },
+        {
+          "asin": "B08XYZ1113",
+          "brand": "Safari",
+          "title": "Safari Fabric 55 cm Cabin Trolley - Red",
+          "product_url": "https://www.amazon.in/dp/B08XYZ1113",
+          "sale_price": 1999.0,
+          "list_price": 3500.0,
+          "discount_pct": 42.9,
+          "rating": 4.2,
+          "review_count": 234,
+          "synthesis": {
+            "summary": "Budget-friendly fabric option from Safari. Good for light travelers. Zippers occasionally stiff but overall positive reception.",
+            "top_praise": ["Lightweight", "Good price", "Nice color options"],
+            "top_complaints": [
+              "Zipper stiff initially",
+              "Fabric feels thin",
+              "No internal organizer"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "brand": "Skybags",
+      "product_count": 10,
+      "review_count": 410,
+      "avg_price": 2200.0,
+      "avg_list_price": 4000.0,
+      "avg_discount_pct": 45.0,
+      "avg_rating": 4.1,
+      "total_reviews": 410,
+      "sentiment_score": 0.65,
+      "sentiment_label": "Good",
+      "price_band": "Mid-range",
+      "positive_themes": [
+        "Trendy designs",
+        "Affordable pricing",
+        "Lightweight",
+        "Good for short trips",
+        "Multiple compartments"
+      ],
+      "negative_themes": [
+        "Zipper durability",
+        "Wheel quality",
+        "Thin material",
+        "Breaks after heavy use",
+        "Handle quality"
+      ],
+      "recurring_praise": [
+        "Very stylish and modern design",
+        "Great value for money",
+        "Lightweight body"
+      ],
+      "recurring_complaints": [
+        "Zipper broke within 3 months",
+        "Wheels stop spinning after airline use",
+        "Material tears at corners"
+      ],
+      "aspect_sentiment": {
+        "wheels": "negative",
+        "handle": "mixed",
+        "zipper": "negative",
+        "material": "negative",
+        "size": "positive",
+        "durability": "negative"
+      },
+      "one_line_summary": "Skybags wins on style and price but faces significant durability concerns particularly around zippers and wheels.",
+      "value_score": 5.2,
+      "rank_by_rating": 3,
+      "rank_by_sentiment": 3,
+      "rank_by_value": 3,
+      "rank_by_discount": 1,
+      "products": [
+        {
+          "asin": "B08XYZ2111",
+          "brand": "Skybags",
+          "title": "Skybags Polycarbonate 55 cm Cabin Trolley - Blue",
+          "product_url": "https://www.amazon.in/dp/B08XYZ2111",
+          "sale_price": 1999.0,
+          "list_price": 3999.0,
+          "discount_pct": 50.0,
+          "rating": 4.2,
+          "review_count": 1203,
+          "synthesis": {
+            "summary": "Popular entry-level option. Great design, very affordable. Multiple reviewers report zipper failure and wheel issues after 6-12 months.",
+            "top_praise": [
+              "Looks very premium for the price",
+              "Very lightweight",
+              "Great color options"
+            ],
+            "top_complaints": [
+              "Zipper broke after 4 months",
+              "Wheel bearings failed",
+              "Material not thick enough"
+            ]
+          }
+        },
+        {
+          "asin": "B08XYZ2112",
+          "brand": "Skybags",
+          "title": "Skybags Fabric 68 cm Check-in Trolley - Grey",
+          "product_url": "https://www.amazon.in/dp/B08XYZ2112",
+          "sale_price": 2499.0,
+          "list_price": 4500.0,
+          "discount_pct": 44.5,
+          "rating": 3.9,
+          "review_count": 567,
+          "synthesis": {
+            "summary": "Decent for occasional use. Fabric construction is a concern for heavy packers. Handle mechanism feels sturdy but some units had alignment issues.",
+            "top_praise": [
+              "Spacious main compartment",
+              "Handle feels solid",
+              "Good price"
+            ],
+            "top_complaints": [
+              "Fabric pilled after first trip",
+              "Corner stitching came loose",
+              "Wheel noise after 2 months"
+            ]
+          }
+        },
+        {
+          "asin": "B08XYZ2113",
+          "brand": "Skybags",
+          "title": "Skybags Polycarbonate 75 cm Large Trolley - Black",
+          "product_url": "https://www.amazon.in/dp/B08XYZ2113",
+          "sale_price": 3200.0,
+          "list_price": 5500.0,
+          "discount_pct": 41.8,
+          "rating": 4.0,
+          "review_count": 321,
+          "synthesis": {
+            "summary": "Large capacity but heavier than advertised. TSA locks appreciated for international travel. Mixed reviews on long-term durability.",
+            "top_praise": [
+              "Huge capacity",
+              "TSA approved lock",
+              "Looks premium"
+            ],
+            "top_complaints": [
+              "Heavier than listed weight",
+              "Scratch shows very easily",
+              "Zipper pulls feel flimsy"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "brand": "American Tourister",
+      "product_count": 10,
+      "review_count": 290,
+      "avg_price": 3800.0,
+      "avg_list_price": 6200.0,
+      "avg_discount_pct": 38.7,
+      "avg_rating": 4.2,
+      "total_reviews": 290,
+      "sentiment_score": 0.72,
+      "sentiment_label": "Good",
+      "price_band": "Premium",
+      "positive_themes": [
+        "Brand trust",
+        "Durable construction",
+        "Smooth wheels",
+        "Good warranty",
+        "International travel ready"
+      ],
+      "negative_themes": [
+        "Premium price",
+        "Heavy shells",
+        "Limited warranty claims",
+        "Service centers",
+        "Outdated designs"
+      ],
+      "recurring_praise": [
+        "Survived multiple international trips",
+        "Wheels still smooth after 2 years",
+        "Brand reliability"
+      ],
+      "recurring_complaints": [
+        "Price too high vs local brands",
+        "Service center difficult to reach",
+        "Body heavy before packing"
+      ],
+      "aspect_sentiment": {
+        "wheels": "positive",
+        "handle": "positive",
+        "zipper": "positive",
+        "material": "positive",
+        "size": "mixed",
+        "durability": "positive"
+      },
+      "one_line_summary": "American Tourister commands premium pricing with strong long-term durability credentials, though value-seekers question the price gap.",
+      "value_score": 4.9,
+      "rank_by_rating": 2,
+      "rank_by_sentiment": 2,
+      "rank_by_value": 4,
+      "rank_by_discount": 4,
+      "products": [
+        {
+          "asin": "B08XYZ3111",
+          "brand": "American Tourister",
+          "title": "American Tourister Magna Crest 55 cm Cabin Trolley - Black",
+          "product_url": "https://www.amazon.in/dp/B08XYZ3111",
+          "sale_price": 3499.0,
+          "list_price": 6000.0,
+          "discount_pct": 41.7,
+          "rating": 4.4,
+          "review_count": 2341,
+          "synthesis": {
+            "summary": "Best-seller in premium segment. Customers trust the brand and report excellent longevity. Higher price point justified by durability across international travel.",
+            "top_praise": [
+              "Still perfect after 3 years",
+              "Handles airport baggage perfectly",
+              "Wheels are butter smooth"
+            ],
+            "top_complaints": [
+              "Very expensive",
+              "Slightly heavy shell",
+              "Service center hard to locate"
+            ]
+          }
+        },
+        {
+          "asin": "B08XYZ3112",
+          "brand": "American Tourister",
+          "title": "American Tourister Linex 68 cm Check-in Trolley - Teal",
+          "product_url": "https://www.amazon.in/dp/B08XYZ3112",
+          "sale_price": 4299.0,
+          "list_price": 7000.0,
+          "discount_pct": 38.6,
+          "rating": 4.1,
+          "review_count": 876,
+          "synthesis": {
+            "summary": "Good mid-size check-in option with solid build. Some customers feel the price jump from competition isn't justified given similar features.",
+            "top_praise": [
+              "Very durable",
+              "Expandable capacity useful",
+              "Nice finish"
+            ],
+            "top_complaints": [
+              "Costly compared to Safari",
+              "No USB port (minor)",
+              "Design looks dated"
+            ]
+          }
+        },
+        {
+          "asin": "B08XYZ3113",
+          "brand": "American Tourister",
+          "title": "American Tourister Curio 55 cm Spinner - Rose Gold",
+          "product_url": "https://www.amazon.in/dp/B08XYZ3113",
+          "sale_price": 3999.0,
+          "list_price": 6500.0,
+          "discount_pct": 38.5,
+          "rating": 4.3,
+          "review_count": 445,
+          "synthesis": {
+            "summary": "Popular with business travelers for its sleek look. Spinner wheels excellent. A few report TSA lock issues but overall very positive.",
+            "top_praise": [
+              "Looks very professional",
+              "Spinner wheels outstanding",
+              "Compact for cabin"
+            ],
+            "top_complaints": [
+              "TSA lock stiff",
+              "Rose gold scratches show easily",
+              "Premium price"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "brand": "VIP",
+      "product_count": 10,
+      "review_count": 200,
+      "avg_price": 2100.0,
+      "avg_list_price": 3800.0,
+      "avg_discount_pct": 44.7,
+      "avg_rating": 3.9,
+      "total_reviews": 200,
+      "sentiment_score": 0.58,
+      "sentiment_label": "Average",
+      "price_band": "Mid-range",
+      "positive_themes": [
+        "Legacy brand",
+        "Good price point",
+        "Spacious",
+        "Familiar quality",
+        "Easy availability"
+      ],
+      "negative_themes": [
+        "Outdated design",
+        "Heavy for size",
+        "Wheel quality declining",
+        "Plastic quality",
+        "No innovation"
+      ],
+      "recurring_praise": [
+        "Trusted Indian brand",
+        "Spacious interior",
+        "Durable enough for domestic use"
+      ],
+      "recurring_complaints": [
+        "Design looks very old",
+        "Wheels make noise",
+        "Plastic creaks",
+        "Heavier than newer brands"
+      ],
+      "aspect_sentiment": {
+        "wheels": "negative",
+        "handle": "mixed",
+        "zipper": "mixed",
+        "material": "mixed",
+        "size": "positive",
+        "durability": "mixed"
+      },
+      "one_line_summary": "VIP relies on legacy brand trust but is losing ground to newer competitors on design and wheel quality.",
+      "value_score": 6.1,
+      "rank_by_rating": 4,
+      "rank_by_sentiment": 4,
+      "rank_by_value": 1,
+      "rank_by_discount": 2,
+      "products": [
+        {
+          "asin": "B08XYZ4111",
+          "brand": "VIP",
+          "title": "VIP Skytex 65 cm Check-in Trolley - Blue",
+          "product_url": "https://www.amazon.in/dp/B08XYZ4111",
+          "sale_price": 1999.0,
+          "list_price": 3800.0,
+          "discount_pct": 47.4,
+          "rating": 4.0,
+          "review_count": 678,
+          "synthesis": {
+            "summary": "Classic VIP reliability at an affordable price. Domestic travelers appreciate it but frequent flyers find the design and wheel quality lacking versus newer brands.",
+            "top_praise": [
+              "Price is very reasonable",
+              "Spacious main compartment",
+              "Trusted brand"
+            ],
+            "top_complaints": [
+              "Wheels noisy on smooth floors",
+              "Design outdated",
+              "Plastic quality average"
+            ]
+          }
+        },
+        {
+          "asin": "B08XYZ4112",
+          "brand": "VIP",
+          "title": "VIP Ornate 55 cm Cabin Trolley - Black",
+          "product_url": "https://www.amazon.in/dp/B08XYZ4112",
+          "sale_price": 2299.0,
+          "list_price": 4000.0,
+          "discount_pct": 42.5,
+          "rating": 3.8,
+          "review_count": 345,
+          "synthesis": {
+            "summary": "Good cabin bag but heavier than competitors. Multiple reviews mention wheels stopping mid-trip. Handle feels durable but chunky.",
+            "top_praise": [
+              "Handle is very sturdy",
+              "Decent space for cabin",
+              "Lock is reliable"
+            ],
+            "top_complaints": [
+              "Too heavy empty",
+              "Wheels failed after 3 trips",
+              "Material looks cheap for price"
+            ]
+          }
+        },
+        {
+          "asin": "B08XYZ4113",
+          "brand": "VIP",
+          "title": "VIP Centaur 75 cm Large Trolley - Black",
+          "product_url": "https://www.amazon.in/dp/B08XYZ4113",
+          "sale_price": 2799.0,
+          "list_price": 4800.0,
+          "discount_pct": 41.7,
+          "rating": 3.9,
+          "review_count": 212,
+          "synthesis": {
+            "summary": "Large capacity at a fair price. Recommended for domestic-only use. Multiple reviewers say wheels and zipper quality need improvement for frequent travelers.",
+            "top_praise": [
+              "Huge storage",
+              "Affordable for the size",
+              "Brand warranty helpful"
+            ],
+            "top_complaints": [
+              "Zipper pulls broke on first use",
+              "Wheel bearings loud",
+              "Feels plasticky"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "competitive_narrative": {
+    "winner": "Safari",
+    "winner_reason": "Safari leads on both sentiment score (0.78) and average rating (4.3/5) while maintaining competitive mid-range pricing. Unlike American Tourister which also scores well, Safari delivers comparable quality at a lower average price point, giving it a stronger value proposition for the Indian market.",
+    "biggest_loser": "VIP",
+    "loser_reason": "VIP has the lowest sentiment score (0.58) and rating (3.9) and is losing brand relevance to newer designs. Its legacy brand trust alone may not sustain market position.",
+    "agent_insights": [
+      "Skybags offers the highest average discount (45%) yet has the worst durability sentiment — suggesting heavy discounting may be masking a quality-exit strategy rather than genuine value.",
+      "American Tourister has the highest avg price but only ranks 2nd on sentiment, not 1st — meaning premium pricing doesn't automatically translate to premium customer satisfaction in this category.",
+      "VIP ranks #1 on value-for-money score despite lowest sentiment — indicating it's cheap enough to satisfy low-expectation buyers but won't retain quality-conscious repeat customers.",
+      "Zipper complaints appear across all 4 brands, suggesting a category-wide quality gap that any brand solving this problem could use as a real differentiator.",
+      "Safari is the only brand with positive sentiment on 4 out of 6 product aspects — making it the most balanced brand and the safest recommendation for a first-time luggage buyer."
+    ],
+    "market_overview": "The Indian luggage market is split between legacy brands (VIP) losing relevance, a style-first disruptor (Skybags) sacrificing durability for design, a premium international brand (American Tourister) with strong loyalty, and Safari emerging as the balanced mid-range winner.",
+    "price_vs_sentiment_note": "Price and sentiment show a non-linear relationship — the most expensive brand (American Tourister) is not the highest sentiment brand, with Safari outperforming at lower price."
+  }
+}

@@ -1,0 +1,899 @@
+{
+  "brand": "Nasher Miles",
+  "processed_at": "2026-04-30T21:05:15.959178Z",
+  "review_count": 83,
+  "insights": {
+    "sentiment_score": 0.54,
+    "sentiment_label": "Average",
+    "positive_themes": [
+      "good quality",
+      "durable",
+      "stylish design",
+      "value for money",
+      "spacious"
+    ],
+    "negative_themes": [
+      "poor durability",
+      "handle issues",
+      "zipper problems",
+      "color discrepancies",
+      "high price"
+    ],
+    "recurring_praise": [
+      "good quality material",
+      "stylish appearance",
+      "spacious design",
+      "durable wheels",
+      "secure lock system"
+    ],
+    "recurring_complaints": [
+      "handle quality issues",
+      "zipper failures",
+      "color not matching",
+      "poor customer service",
+      "fragile construction"
+    ],
+    "aspect_sentiment": {
+      "wheels": "positive",
+      "handle": "mixed",
+      "zipper": "negative",
+      "material": "positive",
+      "size": "positive",
+      "durability": "mixed"
+    },
+    "one_line_summary": "Customers appreciate the stylish design and good quality of Nasher Miles luggage, but many express concerns about durability and customer service."
+  },
+  "products": [
+    {
+      "asin": "B097B4MH49",
+      "brand": "Nasher Miles",
+      "title": "Thorium Royale 8 Wheels 55cm Cabin Trolley Bag Hard Case Carry-on Polycarbonate Luggage, TSA Lock, Wet Pouch Organized Interior, Suitcase for Travel, Trolley Bags for Travel, Vanilla Tan",
+      "product_url": "https://www.amazon.in/dp/B097B4MH49",
+      "sale_price": 2299.0,
+      "list_price": 10999.0,
+      "discount_pct": 79.1,
+      "rating": 4.1,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Quality is very nice . The suitcase is exactly the same product as shown in the image . It's very durable . Go for it!!",
+          "date": "Reviewed in India on 17 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "The product is good, but a pc thickness is low.. value for money, but cant be exceeding 25kgs, ideal for below 20kg for the bigger one, 12-14kgs for the medium & 8-10kgs for the smaller one. Colour, Look n feel is premium. Good deal under 10k for the set of 3…",
+          "date": "Reviewed in India on 28 November 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Colour so classic. The quality of the weels and the zip is so good. The size is as mentioned and correct. Over all its a best product",
+          "date": "Reviewed in India on 19 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "I bought this Safari large trolley bag from Amazon in June 2025, and within less than a year of normal use, the outer polycarbonate shell cracked near the wheel area. The product description mentions an “unbreakable polycarbonate shell,” but my experience was completely different. The damage happened during regular travel, without any extreme mishandling. The crack is serious enough to affect the structure and usability of the bag. For a brand that promotes durability and strength, this is disappointing. I would suggest the company be more realistic in their claims. If you’re buying this expecting long-term durability, please be cautious. Overall, not worth the price considering the quality.",
+          "date": "Reviewed in India on 10 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very good product quality is top notch. As brand there are minute things which they have provided in this trolly which is actually helpul. First of all there is two pockets in the partion flat to keep wet things or toiletries which helps to discard the use of separate toiletrie pouch. 2nd things compression straps are present on both the compartments which is very good. Many budget trolly or even upto 3k trolly bags provide compression strap to only one compartment but in this case it is present on both sides which keeps the things in its place. Recommended to all.",
+          "date": "Reviewed in India on 1 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Good,but price is high",
+          "date": "Reviewed in India on 12 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Satisfied and worth it",
+          "date": "Reviewed in India on 1 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Super, value for money. Set of three bags, each perfectly sized. Sturdy & smart design m",
+          "date": "Reviewed in India on 10 April 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:23:05.827633Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the quality and durability of the Thorium Royale cabin trolley bag, noting its stylish design and good wheel and zipper functionality. However, some express concerns about the polycarbonate thickness and pricing.",
+        "top_praise": [
+          "High quality and durability",
+          "Classic color and design",
+          "Good wheel and zipper functionality"
+        ],
+        "top_complaints": [
+          "Low polycarbonate thickness",
+          "High price",
+          "Issues with cracking after normal use"
+        ]
+      }
+    },
+    {
+      "asin": "B0FC6QHJD7",
+      "brand": "Nasher Miles",
+      "title": "Polycarbonate Spinner Comet Cabin Trolley Bag 56cm|Small|Hard Luggage| Smooth 8-Wheel Suitcase|Combination Lock with Sturdy Zipper|Full Fabric Convipack|3-Year International Warranty (Grey)",
+      "product_url": "https://www.amazon.in/dp/B0FC6QHJD7",
+      "sale_price": 1399.0,
+      "list_price": 7990.0,
+      "discount_pct": 82.5,
+      "rating": 4.1,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Great product, This is the second Trolley bag from Aristocrat. I need to say this, what I recieved is a great product, couple times I stand on the box to reach for items on top of cupboard it hand held me without any probs the Zip held strong, I weigh 75kg. Great Trolley for travel easily can carry 30kg wieght, Its value for money and Durable.",
+          "date": "Reviewed in India on 21 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Look wise, it's nice. No damage, hassle free delivery & reasonable also. I was wondering, what if the product would not be the same as shown in the picture, the zip quality, Lock functionality is good. Finally, I'm satisfied with the product for now but the only concern was the quality. It's a little bit low in quality, but anyways it's worth buying. Thank you Amazon. ♥️✨",
+          "date": "Reviewed in India on 17 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "⭐⭐⭐⭐⭐ Stylish, Durable & Worth the Money (Delivery Slightly Delayed) I recently purchased this 3-piece trolley bag set from Aristocrat, and overall I’m really impressed with the quality and design. First of all, the color combination (olive green with yellow accents) looks very premium and unique—definitely stands out from regular luggage. The hard shell body feels sturdy and durable, which gives confidence for long trips and rough handling during travel. The 360° spinner wheels are super smooth, making it very easy to move the bags around even when fully loaded. The trolley handles are strong and adjustable, and the zippers feel high-quality as well. All three sizes (small, medium, large) are very practical—perfect for different travel needs. Also, the bags came well-packed and in proper condition. The only small issue was that delivery was delayed by 1 day, but considering the product quality, it wasn’t a big concern. ✅ Pros: Premium look and finish Strong and durable body Smooth wheels & easy handling Value-for-money combo set Cons:1-day delivery delay Overall, I would highly recommend this set to anyone looking for stylish and reliable luggage 👍",
+          "date": "Reviewed in India on 2 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Value of money Good quality",
+          "date": "Reviewed in India on 22 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Good and Comfortable",
+          "date": "Reviewed in India on 18 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "The product is very weak wobbly and very disappointed with the Amazon service I kept for return on same day one week before and till now no one is turning up for return, it's a big scam. Such a low standard to show to customers. Very very disappointed I will never ever shopp from the site better to go near by local store.",
+          "date": "Reviewed in India on 23 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Great quality, Good for 3 to 4 days travel.",
+          "date": "Reviewed in India on 7 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Good at this price range. Design and look is also decent & professional.",
+          "date": "Reviewed in India on 1 April 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:23:07.622718Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the stylish design, durability, and value for money of the Polycarbonate Spinner Comet Cabin Trolley Bag. While many reviews highlight its quality and functionality for short trips, there are some concerns regarding the product's sturdiness and customer service experiences.",
+        "top_praise": [
+          "Stylish design",
+          "Durability",
+          "Value for money"
+        ],
+        "top_complaints": [
+          "Weak and wobbly construction",
+          "Poor customer service",
+          "Delivery delays"
+        ]
+      }
+    },
+    {
+      "asin": "B0D6359Y1W",
+      "brand": "Nasher Miles",
+      "title": "American Tourister Harrier|Trolley Bag Set of 2 (55+68 cms) for Travel| Hard Case Polypropylene (PP) Suitcase|360° 4-Wheel Spinner Luggage Trolley|Combination Lock|Slate Grey",
+      "product_url": "https://www.amazon.in/dp/B0D6359Y1W",
+      "sale_price": 3799.0,
+      "list_price": 17050.0,
+      "discount_pct": 77.7,
+      "rating": 4.1,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very fine quality at a very affordable cost,best product in this range.Material looks very impressive and of fine quality.Looks pretty much authentic to me.",
+          "date": "Reviewed in India on 6 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Quality product, lightweight",
+          "date": "Reviewed in India on 30 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "It’s good and durable. Nice colors",
+          "date": "Reviewed in India on 9 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Excellent and Comfortable for journey. Price reasonable. I suggest all my friends and well wishers to buy the same. Hope for Reward Points. Thanks",
+          "date": "Reviewed in India on 29 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "Worst experience from Amazon ordered Set of 3 bags and they deliver only 1 that too damaged and use, seems like someone has returned it because the packing box was having another bill for the same bag from different customer has they have returned it so the same way they given to us with out any quality checks i also ask delivery boy that is there are 3 bag inside he said we dont know? and very very cheap quality i really doubt is it from american tourister or what",
+          "date": "Reviewed in India on 19 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "More storage capacity, travel friendly",
+          "date": "Reviewed in India on 18 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Product is good. It’s locked and I can’t open it and no instructions or password given to unlock the lock. Please help me to unzip the suitcase. You know the worst experience for purchasing online items is you have to go to offline shop to fix the issue. It’s like purchase the item on discount and pay the discounted amount to offline shop.",
+          "date": "Reviewed in India on 16 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "It's good,should improve the quality and no aristocat lable on the body.",
+          "date": "Reviewed in India on 20 January 2026",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:23:08.359379Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the American Tourister Harrier Trolley Bag Set for its quality, lightweight design, and durability. Many find it travel-friendly with good storage capacity, although there are some concerns regarding delivery issues and product functionality.",
+        "top_praise": [
+          "Very fine quality at an affordable cost",
+          "Lightweight and durable",
+          "Excellent for travel with nice colors"
+        ],
+        "top_complaints": [
+          "Delivery issues with damaged or incomplete orders",
+          "Problems with the lock mechanism",
+          "Need for improved quality and labeling"
+        ]
+      }
+    },
+    {
+      "asin": "B097BH9MD5",
+      "brand": "Nasher Miles",
+      "title": "Cabin Polycarbonate Spinner Thorium Neo 8 Wheels 55Cm Size Trolley Bag, Hard Case, 360º Wheeling Carry-On Luggage for Men & Women, Travel Bag, Suitcase for Travel, Dusk Green",
+      "product_url": "https://www.amazon.in/dp/B097BH9MD5",
+      "sale_price": 2099.0,
+      "list_price": 7800.0,
+      "discount_pct": 73.1,
+      "rating": 4.0,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Too good ! Sturdy ! And truly durable.. it's been years since I bought this and It's still going good, I have used it for all sorts of travel, airways, railways, travels etc but still I never found it out to be damaged by anything. Just scratches on body but that can be prevented if you use cover, I did not so the scratches were obvious but over all worth the money. Go for it !!",
+          "date": "Reviewed in India on 18 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Nice durable",
+          "date": "Reviewed in India on 19 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "I bought this Trally beg in 1999. It's build quality is best and looking good. Wheels are good. But handle should be stronger more. It's looks like it will be break but working properly. Size is good but it should be long no width. Product is Best.",
+          "date": "Reviewed in India on 16 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Good product, easy to carry but not scratch resistant 🥲 size is also okay for one person's travelling",
+          "date": "Reviewed in India on 24 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Writing review after 1 year of purchase Positives: - good quality - Good color - good space - good for cabin bags - wheels are nice - rolls nicely - light weight - handle quality is good but design and switch is not Negatives: - expensive for its design and quality - not balanced properly(design is flawed) - fell down easily - handle and extended handle is not sturdy - extended handle causes problem(started after 2 months) - handle switch is not of good quality For this price, I would expect something better.",
+          "date": "Reviewed in India on 16 November 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Nice coller and look",
+          "date": "Reviewed in India on 25 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "I'm always satisfied with Safari products. This time also I'm satisfied, product is same as shown in the picture, same colour,same size ,well packed and delivered on time by Amazon..",
+          "date": "Reviewed in India on 5 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Material quality too good. I put extra weights in the bag and still there is no tear to the clothes. Also the chain quality is too good.",
+          "date": "Reviewed in India on 31 March 2026",
+          "verified": true
+        },
+        {
+          "title": "خامة جيدة وعمق محدود",
+          "rating": 3.0,
+          "body": "الخامة جيدة لكن عمقها صغير ولا تسمح لك بتمديد العمق",
+          "date": "Reviewed in Saudi Arabia on 4 March 2026",
+          "verified": true
+        },
+        {
+          "title": "الرياض",
+          "rating": 5.0,
+          "body": "روعة والوان جميله ومساحتها واسعه",
+          "date": "Reviewed in Saudi Arabia on 22 January 2026",
+          "verified": true
+        },
+        {
+          "title": "Good",
+          "rating": 1.0,
+          "body": "Good",
+          "date": "Reviewed in Saudi Arabia on 11 October 2025",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:23:08.505382Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the Cabin Polycarbonate Spinner Thorium Neo trolley bag for its durability, good build quality, and attractive design. Many have used it for years without significant wear, although some have noted issues with the handle strength and scratch resistance.",
+        "top_praise": [
+          "Sturdy and durable construction",
+          "Good wheel performance and ease of mobility",
+          "Attractive design and good color options"
+        ],
+        "top_complaints": [
+          "Handle could be stronger",
+          "Not scratch resistant",
+          "Limited depth for packing"
+        ]
+      }
+    },
+    {
+      "asin": "B0D766WDBV",
+      "brand": "Nasher Miles",
+      "title": "Boston Hard-Sided Polypropylene Cabin Luggage 20 inch | 55cm | 8 Wheels Double Spinner Small Trolley Bag for Travel | Suitcase (Grey)",
+      "product_url": "https://www.amazon.in/dp/B0D766WDBV",
+      "sale_price": 2449.0,
+      "list_price": 12995.0,
+      "discount_pct": 81.2,
+      "rating": 4.1,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Nice product. Good quality.",
+          "date": "Reviewed in India on 20 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "\"I recently purchased the 8-tyre trolley luggage from Nasher Miles, and it exceeded my expectations. The 8-tyre design makes maneuvering through airports and busy streets so much easier, and the build quality is top-notch. It feels sturdy yet lightweight, and the spacious compartments allowed me to pack everything I needed for my trip. The sleek design is a bonus, too. Overall, an awesome product that combines functionality with style. Highly recommended!\"",
+          "date": "Reviewed in India on 8 September 2024",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "The product quality is very good, and it’s better than the other trolley shown in the picture. I ordered both, but I decided to keep this one. It is ₹700 more expensive than the other, but it’s worth it at ₹3,899. I personally feel one issue: the handle is slightly loose. I’m not sure whether it’s like this by default or if it’s a problem.",
+          "date": "Reviewed in India on 15 January 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Nice product.",
+          "date": "Reviewed in India on 26 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "The hinges broke just in 2 weeks from purchase. I would never trust this brand and have had bad experience. This is all marketing with no quality product",
+          "date": "Reviewed in India on 2 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "As expected and very nice interior texture. Its a full paisa vasool product.",
+          "date": "Reviewed in India on 8 December 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Very light in weight. Ideal for travel. Sturdy and durable.",
+          "date": "Reviewed in India on 12 December 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Quality is ok but we received different colour, ordered gray colour but received pink.",
+          "date": "Reviewed in India on 1 August 2025",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:23:08.649566Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the Boston Hard-Sided Polypropylene Cabin Luggage for its good quality, lightweight design, and maneuverability. However, there are concerns about inconsistent quality and color discrepancies.",
+        "top_praise": [
+          "Good quality and sturdy design",
+          "Lightweight and easy to maneuver",
+          "Nice interior texture and overall value for money"
+        ],
+        "top_complaints": [
+          "Hinges broke within a short period",
+          "Received incorrect color",
+          "Some customers feel it's more marketing than quality"
+        ]
+      }
+    },
+    {
+      "asin": "B09G74MNFL",
+      "brand": "Nasher Miles",
+      "title": "Paris Hard-Sided Polypropylene Cabin Luggage 20 inch | 55cm | 8 Wheels Double Spinner Small Trolley Bag for Travel | Suitcase (Navy Blue)",
+      "product_url": "https://www.amazon.in/dp/B09G74MNFL",
+      "sale_price": 2299.0,
+      "list_price": 13995.0,
+      "discount_pct": 83.6,
+      "rating": 4.2,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good quality Cabin size bag with secure lock system",
+          "date": "Reviewed in India on 12 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Ease of use, lock quality, authenticity. Cost is high.",
+          "date": "Reviewed in India on 7 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good product I ordered medium size of the maroon red colour pretty God sturdy high quality 👌",
+          "date": "Reviewed in India on 6 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Bahut achcha quality hai",
+          "date": "Reviewed in India on 14 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very nice color or nice quality lock is good space very good no bags have space like this ha but after one 2 time used little dirty while flights I’ll order cabin bag also",
+          "date": "Reviewed in India on 6 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "Very ordinary quality. No proper balance, not sturdy enough. On top of that I was delivered a different colour I returned this in the first go.",
+          "date": "Reviewed in India on 10 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Love the bags and travel locks. I wish I could buy more now that I have left India. The case quality and design are top notch and the manoeuvrability is great compared to my safari bags. They are slightly compact compared to safari however they can accommodate more or less up to 23kg. UPdate 1: After landing I noticed a lot more scratches than my 3 year old Safari bag. They seem to not have any protection on the surface. Hence the 3* review .",
+          "date": "Reviewed in India on 4 November 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "The suitcase is very good and fits in a lot of things I bought it for my Grand daughter who is very happy not only with colour but also because it fitted in all her clothes books etc. A good buy and very reasonable cost.",
+          "date": "Reviewed in India on 5 September 2025",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:23:08.806229Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the quality, design, and spaciousness of the Paris Hard-Sided Polypropylene Cabin Luggage. However, some have reported issues with balance and sturdiness, along with concerns about the price and color discrepancies upon delivery.",
+        "top_praise": [
+          "Good quality and sturdy design",
+          "Secure lock system",
+          "Spacious interior"
+        ],
+        "top_complaints": [
+          "High cost",
+          "Ordinary quality reported by some",
+          "Color discrepancies upon delivery"
+        ]
+      }
+    },
+    {
+      "asin": "B0CVSGRTTY",
+      "brand": "Nasher Miles",
+      "title": "Paris Hard-Sided Polypropylene Double Spinner Check-in Luggage 24 inch | 65cm | 8 Wheels Medium Trolley Bag for Travel | Suitcase (Black)",
+      "product_url": "https://www.amazon.in/dp/B0CVSGRTTY",
+      "sale_price": 2809.0,
+      "list_price": 15995.0,
+      "discount_pct": 82.4,
+      "rating": 4.2,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good quality Cabin size bag with secure lock system",
+          "date": "Reviewed in India on 12 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Ease of use, lock quality, authenticity. Cost is high.",
+          "date": "Reviewed in India on 7 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good product I ordered medium size of the maroon red colour pretty God sturdy high quality 👌",
+          "date": "Reviewed in India on 6 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Bahut achcha quality hai",
+          "date": "Reviewed in India on 14 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very nice color or nice quality lock is good space very good no bags have space like this ha but after one 2 time used little dirty while flights I’ll order cabin bag also",
+          "date": "Reviewed in India on 6 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "Very ordinary quality. No proper balance, not sturdy enough. On top of that I was delivered a different colour I returned this in the first go.",
+          "date": "Reviewed in India on 10 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Love the bags and travel locks. I wish I could buy more now that I have left India. The case quality and design are top notch and the manoeuvrability is great compared to my safari bags. They are slightly compact compared to safari however they can accommodate more or less up to 23kg. UPdate 1: After landing I noticed a lot more scratches than my 3 year old Safari bag. They seem to not have any protection on the surface. Hence the 3* review .",
+          "date": "Reviewed in India on 4 November 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "The suitcase is very good and fits in a lot of things I bought it for my Grand daughter who is very happy not only with colour but also because it fitted in all her clothes books etc. A good buy and very reasonable cost.",
+          "date": "Reviewed in India on 5 September 2025",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:23:08.960348Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the quality, design, and spaciousness of the Paris Hard-Sided Polypropylene Double Spinner Check-in Luggage. However, there are mixed reviews regarding its sturdiness and some issues with color discrepancies upon delivery.",
+        "top_praise": [
+          "Good quality and sturdy design",
+          "Spacious interior",
+          "Secure lock system"
+        ],
+        "top_complaints": [
+          "High cost",
+          "Inconsistent quality and balance",
+          "Color mismatch upon delivery"
+        ]
+      }
+    },
+    {
+      "asin": "B0D47KQ81Z",
+      "brand": "Nasher Miles",
+      "title": "Springfield Hard-Sided Polypropylene Check-in Luggage 28 inch | 75cm | 8 Wheels Large Trolley Bag for Travel | Suitcase (Cool Mint)",
+      "product_url": "https://www.amazon.in/dp/B0D47KQ81Z",
+      "sale_price": 2799.0,
+      "list_price": 16995.0,
+      "discount_pct": 83.5,
+      "rating": 3.7,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "The look is sooo soo good and stylish.. it's spacious on both sides.. Best buy. Value for money. Scratch resistance but you should be a bit careful about scars as the colour is light. It's light weight and durable.",
+          "date": "Reviewed in India on 27 March 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "I was initially impressed by the sleek and stylish look of the Nasher Miles trolley bag. However, my excitement quickly turned to disappointment when I noticed that the handle bracket was broken right out of the box. This is a critical part of the bag, and its poor quality makes the entire product unreliable. While the design is appealing, it’s clear that the quality doesn’t match the appearance. I expected much better durability for the price I paid. A broken handle bracket renders the bag almost unusable, and it’s frustrating to deal with such an issue with a brand that claims to deliver quality products. Unfortunately, I cannot recommend this bag unless Nasher Miles improves their quality control. A good look is pointless if the bag can't hold up to basic use.",
+          "date": "Reviewed in India on 26 November 2024",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Best product with premium look...",
+          "date": "Reviewed in India on 5 December 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "The suitcase is spacious, stylish, and overall the build quality is good. However, one of the wheels broke during our travel. On the positive side, the company was very prompt in sending a replacement wheel under warranty, which I really appreciated. That said, I do feel the wheel quality could be improved. I purchased a suitcase from Safari at the same time and both were handled in a similar way during travel, but the wheels on the Safari suitcase seem sturdier compared to Nasher. Overall, Nasher has a better design and build aesthetics, but improving the wheel quality would make it an even better product.",
+          "date": "Reviewed in India on 9 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Works well so far. Been a year.. and I have no complaints. Its tough and looks very good.",
+          "date": "Reviewed in India on 9 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "It’s a nice one with pockets inside. I took it for my short work journeys. Hope it will work long:)",
+          "date": "Reviewed in India on 18 November 2024",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "The product quality is so bad that the zipper broke after two trips. I raised complaint to Nasher miles team and the reply was to get it fixed outside at a local shop and share the bill for reimbursement. Such a poor quality product with poorest quality customer support. I would highly recommend go for some reputed brands than companies like this which just live on shark tank fame!",
+          "date": "Reviewed in India on 19 July 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Overall build quality is good but handle quality is not that much good. And storage space is low. Also what is storgae capacity is not mentioned in specs.",
+          "date": "Reviewed in India on 5 November 2025",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:23:09.124251Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the stylish design and spaciousness of the Springfield Hard-Sided Polypropylene Check-in Luggage, with many noting its premium look and durability. However, there are significant concerns regarding the quality of certain components, particularly the wheels and zippers, which have led to complaints about breakage.",
+        "top_praise": [
+          "Stylish and premium appearance",
+          "Spacious interior",
+          "Durable and tough construction"
+        ],
+        "top_complaints": [
+          "Wheels breaking during travel",
+          "Zipper issues after minimal use",
+          "Inadequate handle quality and storage capacity"
+        ]
+      }
+    },
+    {
+      "asin": "B0GCZJR5ZY",
+      "brand": "Nasher Miles",
+      "title": "Paris Hard-Sided Polypropylene Check-in Luggage 24 inch | 65cm | 8 Wheels Medium Trolley Bag for Travel | Suitcase (Grey)",
+      "product_url": "https://www.amazon.in/dp/B0GCZJR5ZY",
+      "sale_price": 2999.0,
+      "list_price": 15995.0,
+      "discount_pct": 81.3,
+      "rating": 4.2,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good quality Cabin size bag with secure lock system",
+          "date": "Reviewed in India on 12 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Ease of use, lock quality, authenticity. Cost is high.",
+          "date": "Reviewed in India on 7 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good product I ordered medium size of the maroon red colour pretty God sturdy high quality 👌",
+          "date": "Reviewed in India on 6 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Bahut achcha quality hai",
+          "date": "Reviewed in India on 14 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very nice color or nice quality lock is good space very good no bags have space like this ha but after one 2 time used little dirty while flights I’ll order cabin bag also",
+          "date": "Reviewed in India on 6 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "Very ordinary quality. No proper balance, not sturdy enough. On top of that I was delivered a different colour I returned this in the first go.",
+          "date": "Reviewed in India on 10 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Love the bags and travel locks. I wish I could buy more now that I have left India. The case quality and design are top notch and the manoeuvrability is great compared to my safari bags. They are slightly compact compared to safari however they can accommodate more or less up to 23kg. UPdate 1: After landing I noticed a lot more scratches than my 3 year old Safari bag. They seem to not have any protection on the surface. Hence the 3* review .",
+          "date": "Reviewed in India on 4 November 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "The suitcase is very good and fits in a lot of things I bought it for my Grand daughter who is very happy not only with colour but also because it fitted in all her clothes books etc. A good buy and very reasonable cost.",
+          "date": "Reviewed in India on 5 September 2025",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:23:09.280200Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the quality, design, and spaciousness of the Paris Hard-Sided Polypropylene Check-in Luggage. However, some have reported issues with balance and sturdiness, as well as receiving incorrect colors.",
+        "top_praise": [
+          "Good quality and sturdy construction",
+          "Spacious interior with good design",
+          "Secure lock system and ease of use"
+        ],
+        "top_complaints": [
+          "Inconsistent quality and balance",
+          "High cost",
+          "Delivery of incorrect color"
+        ]
+      }
+    },
+    {
+      "asin": "B09G6ZFJPX",
+      "brand": "Nasher Miles",
+      "title": "Polypropylene 360 Degree Paris Hard-Sided Check-in Luggage 28 inch | 75cm | 8 Wheels Large Trolley Bag for Travel | Suitcase (Dark Green)",
+      "product_url": "https://www.amazon.in/dp/B09G6ZFJPX",
+      "sale_price": 3499.0,
+      "list_price": 17995.0,
+      "discount_pct": 80.6,
+      "rating": 4.2,
+      "review_count": 0,
+      "reviews": [
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good quality Cabin size bag with secure lock system",
+          "date": "Reviewed in India on 12 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "Ease of use, lock quality, authenticity. Cost is high.",
+          "date": "Reviewed in India on 7 February 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Good product I ordered medium size of the maroon red colour pretty God sturdy high quality 👌",
+          "date": "Reviewed in India on 6 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Bahut achcha quality hai",
+          "date": "Reviewed in India on 14 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 5.0,
+          "body": "Very nice color or nice quality lock is good space very good no bags have space like this ha but after one 2 time used little dirty while flights I’ll order cabin bag also",
+          "date": "Reviewed in India on 6 March 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 1.0,
+          "body": "Very ordinary quality. No proper balance, not sturdy enough. On top of that I was delivered a different colour I returned this in the first go.",
+          "date": "Reviewed in India on 10 April 2026",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 3.0,
+          "body": "Love the bags and travel locks. I wish I could buy more now that I have left India. The case quality and design are top notch and the manoeuvrability is great compared to my safari bags. They are slightly compact compared to safari however they can accommodate more or less up to 23kg. UPdate 1: After landing I noticed a lot more scratches than my 3 year old Safari bag. They seem to not have any protection on the surface. Hence the 3* review .",
+          "date": "Reviewed in India on 4 November 2025",
+          "verified": true
+        },
+        {
+          "title": "",
+          "rating": 4.0,
+          "body": "The suitcase is very good and fits in a lot of things I bought it for my Grand daughter who is very happy not only with colour but also because it fitted in all her clothes books etc. A good buy and very reasonable cost.",
+          "date": "Reviewed in India on 5 September 2025",
+          "verified": true
+        }
+      ],
+      "scraped_at": "2026-04-30T20:23:09.427698Z",
+      "synthesis": {
+        "summary": "Customers generally appreciate the quality, design, and spaciousness of the Polypropylene 360 Degree Paris Hard-Sided Check-in Luggage. However, there are some concerns regarding the price and occasional issues with color discrepancies and sturdiness.",
+        "top_praise": [
+          "Good quality and sturdy design",
+          "Spacious interior",
+          "Secure lock system"
+        ],
+        "top_complaints": [
+          "High cost",
+          "Inconsistent quality and balance",
+          "Color discrepancies upon delivery"
+        ]
+      }
+    }
+  ]
+}
