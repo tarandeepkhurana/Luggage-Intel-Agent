@@ -2,8 +2,6 @@
 
 An **AI-powered competitive intelligence dashboard** for luggage brands on Amazon India.
 
-Built for the Munshot AI Agent Internship Assignment.
-
 ---
 
 ## What It Does
